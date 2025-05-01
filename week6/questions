@@ -1,0 +1,142 @@
+
+s = "HelloWorld"
+
+    1 What is s[1:5]?
+    • A) Hell
+    • B) ello
+    • C) elloW
+    • D) Hello
+✅ Answer: B
+
+    2 What is s[:4]?
+    • A) Hell
+    • B) HellW
+    • C) Hello
+    • D) loWo
+✅ Answer: A
+
+    3 s[5:] gives:
+    • A) Worl
+    • B) World
+    • C) oWorld
+    • D) Hello
+✅ Answer: B
+
+    4 s[-3:] results in:
+    • A) rld
+    • B) Wor
+    • C) ld
+    • D) orl
+✅ Answer: A
+
+    5 s[:-4] returns:
+    • A) Hell
+    • B) HelloWo
+    • C) Hello
+    • D) HelloW
+✅ Answer: B
+
+    6 What is s[::2]?
+    • A) Hlool
+    • B) elWrd
+    • C) HloWr
+    • D) HloWrd
+✅ Answer: D
+
+    7 s[::-1] is:
+    • A) HelloWorld
+    • B) dlroWolleH
+    • C) dlroWorld
+    • D) dlorWolleH
+✅ Answer: B
+
+    8 s[1:6:2] gives:
+    • A) elW
+    • B) elr
+    • C) elrW
+    • D) el
+✅ Answer: A
+
+    9 s[-5:-2] results in:
+    • A) Wor
+    • B) rld
+    • C) orl
+    • D) Wor
+✅ Answer: D
+
+    10 s[2:-2]?
+    • A) lloWorl
+    • B) lloWorld
+    • C) loWorl
+    • D) loWorld
+✅ Answer: A
+
+    11 s[0:10:3] is:
+    • A) HlWd
+    • B) HoWd
+    • C) HlW
+    • D) HlWl
+✅ Answer: A
+
+    12 s[3:0:-1] returns:
+    • A) oll
+    • B) l
+    • C) lle
+    • D) lre
+✅ Answer: C
+
+    13 s[:100] on this string gives:
+    • A) Error
+    • B) Empty string
+    • C) HelloWorld
+    • D) Last 100 chars
+✅ Answer: C
+
+    14 What is s[4:4]?
+    • A) 'l'
+    • B) 'Hello'
+    • C) '' (empty string)
+    • D) Error
+✅ Answer: C
+
+    15 s[1:-1:3] gives:
+    • A) eoo
+    • B) eol
+    • C) eoo
+    • D) eoo
+✅ Answer: A
+
+    16 s[::-2] returns:
+    • A) dlrWolH
+    • B) drWlH
+    • C) drWlo
+    • D) drWoo
+✅ Answer: B
+
+    17 s[::] is:
+    • A) Reversed string
+    • B) Original string
+    • C) Empty string
+    • D) First letter
+✅ Answer: B
+
+    18 s[-1:-6:-1] results in:
+    • A) dlroW
+    • B) dlroWo
+    • C) dlro
+    • D) dlroW
+✅ Answer: A
+
+    19 s[5:5] gives:
+    • A) 'W'
+    • B) '' (empty string)
+    • C) World
+    • D) Error
+✅ Answer: B
+
+    20 If s = "Python", what is s[-100:3]?
+    • A) Error
+    • B) Pyt
+    • C) Pyth
+    • D) Pyt
+✅ Answer: B
