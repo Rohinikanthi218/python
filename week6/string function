@@ -1,0 +1,41 @@
+s = "  Hello World! Python is fun.  "
+
+    1 What does s.strip() return? A) 'Hello World! Python is fun.' B) ' Hello World! Python is fun. ' C) 'Hello World!Python is fun.' D) 'Hello World!' ✅ Answer: A
+
+    2 What is s.lstrip()? A) Removes leading spaces B) Removes trailing spaces C) Removes all spaces D) Removes l characters ✅ Answer: A
+
+    3 s.rstrip() removes: A) Leading whitespace B) Trailing whitespace C) Both ends D) Middle spaces only ✅ Answer: B
+
+    4 s.upper() returns: A) 'HELLO WORLD! PYTHON IS FUN.' B) 'Hello World! Python is fun.' C) 'hello world! python is fun.' D) Error ✅ Answer: A
+
+    5 s.lower() returns: A) 'HELLO WORLD! PYTHON IS FUN.' B) 'hello world! python is fun.' C) 'Hello world!' D) 'HELLO world!' ✅ Answer: B
+
+    6 What does s.split() return? A) List of characters B) List of words C) Tuple of words D) Dictionary ✅ Answer: B
+
+    7 s.split('!') returns:      Hello World! Python is fun. A) ['Hello World', ' Python is fun.'] B) ['Hello World', ' Python is fun. '] C) [' Hello World', ' Python is fun. '] D) ['Hello', ' World! Python is fun.'] ✅ Answer: C
+
+    8 What is 'Python is fun'.replace('fun', 'awesome')? A) 'Python is fun' B) 'Python is awesome' C) 'Python awesome fun' D) Error ✅ Answer: B
+
+    9 'Hello World!'.find('World') gives: A) 6 B) 5 C) 7 D) 0 ✅ Answer: A
+
+    10 'Python is fun'.startswith('Python')? A) True B) False C) Error D) None ✅ Answer: A
+
+    11 'Python is fun'.endswith('fun')? A) True B) False C) None D) Error ✅ Answer: A
+
+    12 'apple,banana,cherry'.split(',') returns: A) ['apple banana cherry'] B) ['apple', 'banana', 'cherry'] C) ['a', 'b', 'c'] D) ('apple', 'banana', 'cherry') ✅ Answer: B
+
+    13 ' hello '.strip() gives: A) 'hello' B) ' hello' C) 'hello ' D) ' hello ' ✅ Answer: A
+
+    14 '123abc'.isdigit() returns: A) True B) False C) Error D) None ✅ Answer: B
+
+    15 '123'.isdigit() returns: A) True B) False C) 123 D) Error ✅ Answer: A
+
+    16 'Python123'.isalnum() returns: A) True B) False C) Error D) None ✅ Answer: A
+
+    17 'Hello'.isalpha() returns: A) True B) False C) Error D) None ✅ Answer: A
+
+    18 'HELLO'.islower() returns: A) True B) False C) Error D) None ✅ Answer: B
+
+    19 'hello'.isupper() returns: A) True B) False C) Error D) None ✅ Answer: B
+
+    20 ' Hello '.lstrip().rstrip() gives: A) 'Hello' B) ' Hello' C) 'Hello ' D) ' Hello ' ✅ Answer: A
